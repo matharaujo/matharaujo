@@ -17,6 +17,9 @@ Skills:
 - Postgres
 - SQLServer 
 
+
+Would you like to contact me?
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maath-araujo)](https://www.linkedin.com/in/maath-araujo)
 
 WhatsApp: (16) 991866610
