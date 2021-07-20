@@ -4,13 +4,13 @@
 
 ##
 
-Would you like to contact me?
+### 🤔 Would you like to contact me?
 
 <a href="https://www.linkedin.com/in/maath-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
 
-My Skills
+### 🚀 My Skills
 
 <div style="display: inline-block">
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
